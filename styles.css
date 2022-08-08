@@ -1,0 +1,13 @@
+.container-1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.icon {
+    width: 10%;
+    background-color: red;
+    display: flex;
+    gap: 15px;
+}
+
