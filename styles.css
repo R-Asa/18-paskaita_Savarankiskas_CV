@@ -58,15 +58,6 @@ body {
     color: rgb(102,102,102);
 }
 
-/* .fcb, .twit, .linkedin, .git {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 16px;
-    height: 16 px;
-    color: rgb(57, 240, 90);
-} */
-
 .container-2 {
     width: 100%;
     display: flex;
@@ -96,5 +87,13 @@ body {
     justify-content: center;
     padding: 51px;
     margin-left: -106px;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 10%), 0 2px 4px -1px rgb(0 0 0 / 6%);
+}
+
+.container-3 {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     box-shadow: 0 4px 6px -1px rgb(0 0 0 / 10%), 0 2px 4px -1px rgb(0 0 0 / 6%);
 }
