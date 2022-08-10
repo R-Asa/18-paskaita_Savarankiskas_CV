@@ -267,10 +267,10 @@ body {
         flex-direction: row;
         justify-content: flex-start;
         gap: 15px;
-        flex-wrap: wrap;
     }
 
     .exp {
+        width: 80%;
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
@@ -279,11 +279,11 @@ body {
     }
 
     .edc {
+        width: 80%;
         display: flex;
         flex-direction: row;
         justify-content: flex-start;
         gap: 15px;
-        width: 80%;
         flex-wrap: wrap;
     }
 }
