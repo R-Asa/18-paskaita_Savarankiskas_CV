@@ -1,6 +1,7 @@
 body {
     margin: 0;
     width: 100%;
+    max-width: 1400px;
     height: 100%;
     font-family: poppins,Helvetica,sans-serif;
     font-size: 14px;
